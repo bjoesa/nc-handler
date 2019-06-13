@@ -12,4 +12,4 @@ Contains nc-handler scripts to write netCDF files for cosipy. To run: make your 
 * nc_reader contains code to check the netCDF file.
 
 Author: Björn Saß (bjoern.sass@fau.de)
-Created: 01.03.2018
+Created: 01.03.2018 (moved from bitbucket to github)
